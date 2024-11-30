@@ -1,0 +1,2082 @@
+[
+    {
+        "id": "0001",
+        "name": "Afghanistan",
+        "name_ja": "アフガニスタン",
+        "flag": "🇦🇫",
+        "code": "AF",
+        "dial_code": "+93",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0002",
+        "name": "Åland Islands",
+        "name_ja": "オーランド諸島",
+        "flag": "🇦🇽",
+        "code": "AX",
+        "dial_code": "+358",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0003",
+        "name": "Albania",
+        "name_ja": "アルバニア",
+        "flag": "🇦🇱",
+        "code": "AL",
+        "dial_code": "+355",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0004",
+        "name": "Algeria",
+        "name_ja": "アルジェリア",
+        "flag": "🇩🇿",
+        "code": "DZ",
+        "dial_code": "+213",
+        "pattern": "### ## ## ##",
+        "limit": 17
+    }, {
+        "id": "0005",
+        "name": "American Samoa",
+        "name_ja": "アメリカ領サモア",
+        "flag": "🇦🇸",
+        "code": "AS",
+        "dial_code": "+1684",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0006",
+        "name": "Andorra",
+        "name_ja": "アンドラ",
+        "flag": "🇦🇩",
+        "code": "AD",
+        "dial_code": "+376",
+        "pattern": "## ## ##",
+        "limit": 17
+    }, {
+        "id": "0007",
+        "name": "Angola",
+        "name_ja": "アンゴラ",
+        "flag": "🇦🇴",
+        "code": "AO",
+        "dial_code": "+244",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0008",
+        "name": "Anguilla",
+        "name_ja": "アンギラ",
+        "flag": "🇦🇮",
+        "code": "AI",
+        "dial_code": "+1264",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0010",
+        "name": "Antigua & Barbuda",
+        "name_ja": "アンティグア・バーブーダ",
+        "flag": "🇦🇬",
+        "code": "AG",
+        "dial_code": "+1268",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0011",
+        "name": "Argentina",
+        "name_ja": "アルゼンチン",
+        "flag": "🇦🇷",
+        "code": "AR",
+        "dial_code": "+54",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0012",
+        "name": "Armenia",
+        "name_ja": "アルメニア",
+        "flag": "🇦🇲",
+        "code": "AM",
+        "dial_code": "+374",
+        "pattern": "## ### ###",
+        "limit": 17
+    }, {
+        "id": "0013",
+        "name": "Aruba",
+        "name_ja": "アルバ",
+        "flag": "🇦🇼",
+        "code": "AW",
+        "dial_code": "+297",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0014",
+        "name": "Australia",
+        "name_ja": "オーストラリア",
+        "flag": "🇦🇺",
+        "code": "AU",
+        "dial_code": "+61",
+        "pattern": "# #### ####",
+        "limit": 17
+    }, {
+        "id": "0015",
+        "name": "Austria",
+        "name_ja": "オーストリア",
+        "flag": "🇦🇹",
+        "code": "AT",
+        "dial_code": "+43",
+        "pattern": "### ######",
+        "limit": 17
+    }, {
+        "id": "0016",
+        "name": "Azerbaijan",
+        "name_ja": "アゼルバイジャン",
+        "flag": "🇦🇿",
+        "code": "AZ",
+        "dial_code": "+994",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0017",
+        "name": "Bahamas",
+        "name_ja": "バハマ",
+        "flag": "🇧🇸",
+        "code": "BS",
+        "dial_code": "+1242",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0018",
+        "name": "Bahrain",
+        "name_ja": "バーレーン",
+        "flag": "🇧🇭",
+        "code": "BH",
+        "dial_code": "+973",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0019",
+        "name": "Bangladesh",
+        "name_ja": "バングラディッシュ",
+        "flag": "🇧🇩",
+        "code": "BD",
+        "dial_code": "+880",
+        "pattern": "## ### ###",
+        "limit": 17
+    }, {
+        "id": "0020",
+        "name": "Barbados",
+        "name_ja": "バルバドス",
+        "flag": "🇧🇧",
+        "code": "BB",
+        "dial_code": "+1246",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0021",
+        "name": "Belarus",
+        "name_ja": "ベラルーシ",
+        "flag": "🇧🇾",
+        "code": "BY",
+        "dial_code": "+375",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0022",
+        "name": "Belgium",
+        "name_ja": "ベルギー",
+        "flag": "🇧🇪",
+        "code": "BE",
+        "dial_code": "+32",
+        "pattern": "### ## ## ##",
+        "limit": 17
+    }, {
+        "id": "0023",
+        "name": "Belize",
+        "name_ja": "ベリーズ",
+        "flag": "🇧🇿",
+        "code": "BZ",
+        "dial_code": "+501",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0024",
+        "name": "Benin",
+        "name_ja": "ベニン",
+        "flag": "🇧🇯",
+        "code": "BJ",
+        "dial_code": "+229",
+        "pattern": "## ### ###",
+        "limit": 17
+    }, {
+        "id": "0025",
+        "name": "Bermuda",
+        "name_ja": "バルミューダ諸島",
+        "flag": "🇧🇲",
+        "code": "BM",
+        "dial_code": "+1441",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0026",
+        "name": "Bhutan",
+        "name_ja": "ブータン",
+        "flag": "🇧🇹",
+        "code": "BT",
+        "dial_code": "+975",
+        "pattern": "## ### ###",
+        "limit": 17
+    }, {
+        "id": "0027",
+        "name": "Bolivia",
+        "name_ja": "ボリビア",
+        "flag": "🇧🇴",
+        "code": "BO",
+        "dial_code": "+591",
+        "pattern": "# ### ####",
+        "limit": 17
+    }, {
+        "id": "0028",
+        "name": "Bosnia & Herzegovina",
+        "name_ja": "ボスニア・ヘルツェゴビナ",
+        "flag": "🇧🇦",
+        "code": "BA",
+        "dial_code": "+387",
+        "pattern": "## ### ###",
+        "limit": 17
+    }, {
+        "id": "0029",
+        "name": "Botswana",
+        "name_ja": "ボツワナ",
+        "flag": "🇧🇼",
+        "code": "BW",
+        "dial_code": "+267",
+        "pattern": "## ### ###",
+        "limit": 17
+    }, {
+        "id": "0031",
+        "name": "Brazil",
+        "name_ja": "ブラジル",
+        "flag": "🇧🇷",
+        "code": "BR",
+        "dial_code": "+55",
+        "pattern": "## ##### ####",
+        "limit": 17
+    }, {
+        "id": "0032",
+        "name": "British Virgin Islands",
+        "name_ja": "イギリス領バージン諸島",
+        "flag": "🇻🇬",
+        "code": "IO",
+        "dial_code": "+1284",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0033",
+        "name": "Brunei Darussalam",
+        "name_ja": "ブルネイ・ダルサラーム",
+        "flag": "🇧🇳",
+        "code": "BN",
+        "dial_code": "+673",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0034",
+        "name": "Bulgaria",
+        "name_ja": "ブルガリア",
+        "flag": "🇧🇬",
+        "code": "BG",
+        "dial_code": "+359",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0035",
+        "name": "Burkina Faso",
+        "name_ja": "ブルキナファソ",
+        "flag": "🇧🇫",
+        "code": "BF",
+        "dial_code": "+226",
+        "pattern": "## ## ## ##",
+        "limit": 17
+    }, {
+        "id": "0036",
+        "name": "Burundi",
+        "name_ja": "ブルンジ",
+        "flag": "🇧🇮",
+        "code": "BI",
+        "dial_code": "+257",
+        "pattern": "## ## ####",
+        "limit": 17
+    }, {
+        "id": "0037",
+        "name": "Cambodia",
+        "name_ja": "カンボジア",
+        "flag": "🇰🇭",
+        "code": "KH",
+        "dial_code": "+855",
+        "pattern": "## ### ###",
+        "limit": 17
+    }, {
+        "id": "0038",
+        "name": "Cameroon",
+        "name_ja": "カメルーン",
+        "flag": "🇨🇲",
+        "code": "CM",
+        "dial_code": "+237",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0039",
+        "name": "Canada",
+        "name_ja": "カナダ",
+        "flag": "🇨🇦",
+        "code": "CA",
+        "dial_code": "+1",
+        "pattern": "### ### ####",
+        "limit": 17
+    }, {
+        "id": "0040",
+        "name": "Cape Verde",
+        "name_ja": "カーボベルデ",
+        "flag": "🇨🇻",
+        "code": "CV",
+        "dial_code": "+238",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0041",
+        "name": "Cayman Islands",
+        "name_ja": "ケイマン諸島",
+        "flag": "🇰🇾",
+        "code": "KY",
+        "dial_code": "+1345",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0042",
+        "name": "Central African Rep.",
+        "name_ja": "中央アフリカ共和国",
+        "flag": "🇨🇫",
+        "code": "CF",
+        "dial_code": "+236",
+        "pattern": "## ## ## ##",
+        "limit": 17
+    }, {
+        "id": "0043",
+        "name": "Chad",
+        "name_ja": "チャド",
+        "flag": "🇹🇩",
+        "code": "TD",
+        "dial_code": "+235",
+        "pattern": "## ## ## ##",
+        "limit": 17
+    }, {
+        "id": "0044",
+        "name": "Chile",
+        "name_ja": "チリ",
+        "flag": "🇨🇱",
+        "code": "CL",
+        "dial_code": "+56",
+        "pattern": "# #### ####",
+        "limit": 17
+    }, {
+        "id": "0045",
+        "name": "China",
+        "name_ja": "中国",
+        "flag": "🇨🇳",
+        "code": "CN",
+        "dial_code": "+86",
+        "pattern": "### #### ####",
+        "limit": 17
+    }, {
+        "id": "0048",
+        "name": "Colombia",
+        "name_ja": "コロンビア",
+        "flag": "🇨🇴",
+        "code": "CO",
+        "dial_code": "+57",
+        "pattern": "### ### ####",
+        "limit": 17
+    }, {
+        "id": "0049",
+        "name": "Comoros",
+        "name_ja": "コモロ",
+        "flag": "🇰🇲",
+        "code": "KM",
+        "dial_code": "+269",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0050",
+        "name": "Congo (Rep.)",
+        "name_ja": "コンゴ民主共和国",
+        "flag": "🇨🇬",
+        "code": "CG",
+        "dial_code": "+242",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0051",
+        "name": "Congo (Dem. Rep.)",
+        "name_ja": "コンゴ",
+        "flag": "🇨🇩",
+        "code": "CD",
+        "dial_code": "+243",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0052",
+        "name": "Cook Islands",
+        "name_ja": "クック諸島",
+        "flag": "🇨🇰",
+        "code": "CK",
+        "dial_code": "+682",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0053",
+        "name": "Costa Rica",
+        "name_ja": "コスタリカ",
+        "flag": "🇨🇷",
+        "code": "CR",
+        "dial_code": "+506",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0054",
+        "name": "Cote d'Ivoire",
+        "name_ja": "コートジボワール",
+        "flag": "🇨🇮",
+        "code": "CI",
+        "dial_code": "+225",
+        "pattern": "## ## ## ####",
+        "limit": 17
+    }, {
+        "id": "0055",
+        "name": "Croatia",
+        "name_ja": "クロアチア",
+        "flag": "🇭🇷",
+        "code": "HR",
+        "dial_code": "+385",
+        "pattern": "## ### ###",
+        "limit": 17
+    }, {
+        "id": "0056",
+        "name": "Cuba",
+        "name_ja": "キューバ",
+        "flag": "🇨🇺",
+        "code": "CU",
+        "dial_code": "+53",
+        "pattern": "# ### ####",
+        "limit": 17
+    }, {
+        "id": "0057",
+        "name": "Cyprus",
+        "name_ja": "キプロス",
+        "flag": "🇨🇾",
+        "code": "CY",
+        "dial_code": "+357",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0058",
+        "name": "Czech Republic",
+        "name_ja": "チェコ共和国",
+        "flag": "🇨🇿",
+        "code": "CZ",
+        "dial_code": "+420",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0059",
+        "name": "Denmark",
+        "name_ja": "デンマーク",
+        "flag": "🇩🇰",
+        "code": "DK",
+        "dial_code": "+45",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "006011",
+        "name": "Diego Garcia",
+        "name_ja": "ディエゴ・ガルシア島",
+        "flag": "🇮🇴",
+        "code": "IO",
+        "dial_code": "+246",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0060",
+        "name": "Djibouti",
+        "name_ja": "ジブチ",
+        "flag": "🇩🇯",
+        "code": "DJ",
+        "dial_code": "+253",
+        "pattern": "## ## ## ##",
+        "limit": 17
+    }, {
+        "id": "0061",
+        "name": "Dominica",
+        "name_ja": "ドミニカ",
+        "flag": "🇩🇲",
+        "code": "DM",
+        "dial_code": "+1767",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0062",
+        "name": "Dominican Rep.",
+        "name_ja": "ドミニカ共和国",
+        "flag": "🇩🇴",
+        "code": "DO",
+        "dial_code": "+1809",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0063",
+        "name": "Ecuador",
+        "name_ja": "エクアドル",
+        "flag": "🇪🇨",
+        "code": "EC",
+        "dial_code": "+593",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0064",
+        "name": "Egypt",
+        "name_ja": "エジプト",
+        "flag": "🇪🇬",
+        "code": "EG",
+        "dial_code": "+20",
+        "pattern": "## #### ####",
+        "limit": 17
+    }, {
+        "id": "0065",
+        "name": "El Salvador",
+        "name_ja": "エルサルバドル",
+        "flag": "🇸🇻",
+        "code": "SV",
+        "dial_code": "+503",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0066",
+        "name": "Equatorial Guinea",
+        "name_ja": "赤道ギニア",
+        "flag": "🇬🇶",
+        "code": "GQ",
+        "dial_code": "+240",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0067",
+        "name": "Eritrea",
+        "name_ja": "エリトリア",
+        "flag": "🇪🇷",
+        "code": "ER",
+        "dial_code": "+291",
+        "pattern": "# ### ###",
+        "limit": 17
+    }, {
+        "id": "0068",
+        "name": "Estonia",
+        "name_ja": "エストニア",
+        "flag": "🇪🇪",
+        "code": "EE",
+        "dial_code": "+372",
+        "pattern": "#### ###",
+        "limit": 17
+    }, {
+        "id": "006811",
+        "name": "Eswatini",
+        "name_ja": "エスワティニ",
+        "flag": "🇸🇿",
+        "code": "SZ",
+        "dial_code": "+268",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0069",
+        "name": "Ethiopia",
+        "name_ja": "エチオピア",
+        "flag": "🇪🇹",
+        "code": "ET",
+        "dial_code": "+251",
+        "pattern": "## ### ###",
+        "limit": 17
+    }, {
+        "id": "0070",
+        "name": "Falkland Islands",
+        "name_ja": "フォークランド諸島",
+        "flag": "🇫🇰",
+        "code": "FK",
+        "dial_code": "+500",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0071",
+        "name": "Faroe Islands",
+        "name_ja": "フェロー諸島",
+        "flag": "🇫🇴",
+        "code": "FO",
+        "dial_code": "+298",
+        "pattern": "### ###",
+        "limit": 7
+    }, {
+        "id": "0072",
+        "name": "Fiji",
+        "name_ja": "フィジー",
+        "flag": "🇫🇯",
+        "code": "FJ",
+        "dial_code": "+679",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0073",
+        "name": "Finland",
+        "name_ja": "フィンランド",
+        "flag": "🇫🇮",
+        "code": "FI",
+        "dial_code": "+358",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0074",
+        "name": "France",
+        "name_ja": "フランス",
+        "flag": "🇫🇷",
+        "code": "FR",
+        "dial_code": "+33",
+        "pattern": "# ## ## ## ##",
+        "limit": 17
+    }, {
+        "id": "0075",
+        "name": "French Guiana",
+        "name_ja": "フランス領ギニア",
+        "flag": "🇬🇫",
+        "code": "GF",
+        "dial_code": "+594",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0076",
+        "name": "French Polynesia",
+        "name_ja": "フランス領ポリネシア",
+        "flag": "🇵🇫",
+        "code": "PF",
+        "dial_code": "+689",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0078",
+        "name": "Gabon",
+        "name_ja": "ガボン",
+        "flag": "🇬🇦",
+        "code": "GA",
+        "dial_code": "+241",
+        "pattern": "# ## ## ##",
+        "limit": 17
+    }, {
+        "id": "0079",
+        "name": "Gambia",
+        "name_ja": "ガンビア",
+        "flag": "🇬🇲",
+        "code": "GM",
+        "dial_code": "+220",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0080",
+        "name": "Georgia",
+        "name_ja": "ジョージア",
+        "flag": "🇬🇪",
+        "code": "GE",
+        "dial_code": "+995",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0081",
+        "name": "Germany",
+        "name_ja": "ドイツ",
+        "flag": "🇩🇪",
+        "code": "DE",
+        "dial_code": "+49",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0082",
+        "name": "Ghana",
+        "name_ja": "ガーナ",
+        "flag": "🇬🇭",
+        "code": "GH",
+        "dial_code": "+233",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0083",
+        "name": "Gibraltar",
+        "name_ja": "ジブラルタル",
+        "flag": "🇬🇮",
+        "code": "GI",
+        "dial_code": "+350",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0084",
+        "name": "Greece",
+        "name_ja": "ギリシャ",
+        "flag": "🇬🇷",
+        "code": "GR",
+        "dial_code": "+30",
+        "pattern": "### ### ####",
+        "limit": 17
+    }, {
+        "id": "0085",
+        "name": "Greenland",
+        "name_ja": "グリーンランド",
+        "flag": "🇬🇱",
+        "code": "GL",
+        "dial_code": "+299",
+        "pattern": "### ###",
+        "limit": 17
+    }, {
+        "id": "0086",
+        "name": "Grenada",
+        "name_ja": "グレナダ",
+        "flag": "🇬🇩",
+        "code": "GD",
+        "dial_code": "+1473",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0087",
+        "name": "Guadeloupe",
+        "name_ja": "グアドループ",
+        "flag": "🇬🇵",
+        "code": "GP",
+        "dial_code": "+590",
+        "pattern": "### ## ## ##",
+        "limit": 17
+    }, {
+        "id": "0088",
+        "name": "Guam",
+        "name_ja": "グアム",
+        "flag": "🇬🇺",
+        "code": "GU",
+        "dial_code": "+1671",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0089",
+        "name": "Guatemala",
+        "name_ja": "グアテマラ",
+        "flag": "🇬🇹",
+        "code": "GT",
+        "dial_code": "+502",
+        "pattern": "# ### ####",
+        "limit": 17
+    }, {
+        "id": "0091",
+        "name": "Guinea",
+        "name_ja": "ギニア",
+        "flag": "🇬🇳",
+        "code": "GN",
+        "dial_code": "+224",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0092",
+        "name": "Guinea-Bissau",
+        "name_ja": "ギニアビサウ",
+        "flag": "🇬🇼",
+        "code": "GW",
+        "dial_code": "+245",
+        "pattern": "### ## ## ##",
+        "limit": 17
+    }, {
+        "id": "0093",
+        "name": "Guyana",
+        "name_ja": "ガイアナ",
+        "flag": "🇬🇾",
+        "code": "GY",
+        "dial_code": "+592",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0094",
+        "name": "Haiti",
+        "name_ja": "ハイチ",
+        "flag": "🇭🇹",
+        "code": "HT",
+        "dial_code": "+509",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0097",
+        "name": "Honduras",
+        "name_ja": "ホンジュラス",
+        "flag": "🇭🇳",
+        "code": "HN",
+        "dial_code": "+504",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0098",
+        "name": "Hong Kong",
+        "name_ja": "香港",
+        "flag": "🇭🇰",
+        "code": "HK",
+        "dial_code": "+852",
+        "pattern": "# ### ####",
+        "limit": 17
+    }, {
+        "id": "0099",
+        "name": "Hungary",
+        "name_ja": "ハンガリー",
+        "flag": "🇭🇺",
+        "code": "HU",
+        "dial_code": "+36",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0100",
+        "name": "Iceland",
+        "name_ja": "アイスランド",
+        "flag": "🇮🇸",
+        "code": "IS",
+        "dial_code": "+354",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0101",
+        "name": "India",
+        "name_ja": "インド",
+        "flag": "🇮🇳",
+        "code": "IN",
+        "dial_code": "+91",
+        "pattern": "##### #####",
+        "limit": 17
+    }, {
+        "id": "0102",
+        "name": "Indonesia",
+        "name_ja": "インドネシア",
+        "flag": "🇮🇩",
+        "code": "ID",
+        "dial_code": "+62",
+        "pattern": "### ######",
+        "limit": 17
+    }, {
+        "id": "0103",
+        "name": "Iran",
+        "name_ja": "イラン",
+        "flag": "🇮🇷",
+        "code": "IR",
+        "dial_code": "+98",
+        "pattern": "### ### ####",
+        "limit": 17
+    }, {
+        "id": "0104",
+        "name": "Iraq",
+        "name_ja": "イラク",
+        "flag": "🇮🇶",
+        "code": "IQ",
+        "dial_code": "+964",
+        "pattern": "### ### ####",
+        "limit": 17
+    }, {
+        "id": "0105",
+        "name": "Ireland",
+        "name_ja": "アイルランド",
+        "flag": "🇮🇪",
+        "code": "IE",
+        "dial_code": "+353",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0107",
+        "name": "Israel",
+        "name_ja": "イスラエル",
+        "flag": "🇮🇱",
+        "code": "IL",
+        "dial_code": "+972",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0108",
+        "name": "Italy",
+        "name_ja": "イタリア",
+        "flag": "🇮🇹",
+        "code": "IT",
+        "dial_code": "+39",
+        "pattern": "### ### ####",
+        "limit": 17
+    }, {
+        "id": "0109",
+        "name": "Jamaica",
+        "name_ja": "ジャマイカ",
+        "flag": "🇯🇲",
+        "code": "JM",
+        "dial_code": "+1876",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0110",
+        "name": "Japan",
+        "name_ja": "日本",
+        "flag": "🇯🇵",
+        "code": "JP",
+        "dial_code": "+81",
+        "pattern": "### #### ####",
+        "limit": 17
+    }, {
+        "id": "0112",
+        "name": "Jordan",
+        "name_ja": "ヨルダン",
+        "flag": "🇯🇴",
+        "code": "JO",
+        "dial_code": "+962",
+        "pattern": "# #### ####",
+        "limit": 17
+    }, {
+        "id": "0113",
+        "name": "Kazakhstan",
+        "name_ja": "カザフスタン",
+        "flag": "🇰🇿",
+        "code": "KZ",
+        "dial_code": "+7",
+        "pattern": "### ### ## ##",
+        "limit": 17
+    }, {
+        "id": "0114",
+        "name": "Kenya",
+        "name_ja": "ケニア",
+        "flag": "🇰🇪",
+        "code": "KE",
+        "dial_code": "+254",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0115",
+        "name": "Kiribati",
+        "name_ja": "キリバティ",
+        "flag": "🇰🇮",
+        "code": "KI",
+        "dial_code": "+686",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0116",
+        "name": "North Korea",
+        "name_ja": "北朝鮮",
+        "flag": "🇰🇵",
+        "code": "KP",
+        "dial_code": "+850",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0117",
+        "name": "South Korea",
+        "name_ja": "大韓民国",
+        "flag": "🇰🇷",
+        "code": "KR",
+        "dial_code": "+82",
+        "pattern": "## #### ###",
+        "limit": 17
+    }, {
+        "id": "0118",
+        "name": "Kosovo",
+        "name_ja": "コソボ",
+        "flag": "🇽🇰",
+        "code": "XK",
+        "dial_code": "+383",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0119",
+        "name": "Kuwait",
+        "name_ja": "クウェート",
+        "flag": "🇰🇼",
+        "code": "KW",
+        "dial_code": "+965",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0120",
+        "name": "Kyrgyzstan",
+        "name_ja": "キルギスタン",
+        "flag": "🇰🇬",
+        "code": "KG",
+        "dial_code": "+996",
+        "pattern": "### ######",
+        "limit": 17
+    }, {
+        "id": "0121",
+        "name": "Laos",
+        "name_ja": "ラオス",
+        "flag": "🇱🇦",
+        "code": "LA",
+        "dial_code": "+856",
+        "pattern": "## ## ### ###",
+        "limit": 17
+    }, {
+        "id": "0122",
+        "name": "Latvia",
+        "name_ja": "ラトビア",
+        "flag": "🇱🇻",
+        "code": "LV",
+        "dial_code": "+371",
+        "pattern": "### #####",
+        "limit": 17
+    }, {
+        "id": "0123",
+        "name": "Lebanon",
+        "name_ja": "レバノン",
+        "flag": "🇱🇧",
+        "code": "LB",
+        "dial_code": "+961",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0124",
+        "name": "Lesotho",
+        "name_ja": "レソト",
+        "flag": "🇱🇸",
+        "code": "LS",
+        "dial_code": "+266",
+        "pattern": "## ### ###",
+        "limit": 17
+    }, {
+        "id": "0125",
+        "name": "Liberia",
+        "name_ja": "リベリア",
+        "flag": "🇱🇷",
+        "code": "LR",
+        "dial_code": "+231",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0126",
+        "name": "Libya",
+        "name_ja": "リビア",
+        "flag": "🇱🇾",
+        "code": "LY",
+        "dial_code": "+218",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0127",
+        "name": "Liechtenstein",
+        "name_ja": "リヒテンシュタイン",
+        "flag": "🇱🇮",
+        "code": "LI",
+        "dial_code": "+423",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0128",
+        "name": "Lithuania",
+        "name_ja": "リトアニア",
+        "flag": "🇱🇹",
+        "code": "LT",
+        "dial_code": "+370",
+        "pattern": "### #####",
+        "limit": 17
+    }, {
+        "id": "0129",
+        "name": "Luxembourg",
+        "name_ja": "ルクセンブルク",
+        "flag": "🇱🇺",
+        "code": "LU",
+        "dial_code": "+352",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0130",
+        "name": "Macau",
+        "name_ja": "マカオ",
+        "flag": "🇲🇴",
+        "code": "MO",
+        "dial_code": "+853",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0131",
+        "name": "Macedonia",
+        "name_ja": "マケドニア",
+        "flag": "🇲🇰",
+        "code": "MK",
+        "dial_code": "+389",
+        "pattern": "## ######",
+        "limit": 17
+    }, {
+        "id": "0132",
+        "name": "Madagascar",
+        "name_ja": "マダガスカル",
+        "flag": "🇲🇬",
+        "code": "MG",
+        "dial_code": "+261",
+        "pattern": "## ######",
+        "limit": 17
+    }, {
+        "id": "0133",
+        "name": "Malawi",
+        "name_ja": "マラウイ",
+        "flag": "🇲🇼",
+        "code": "MW",
+        "dial_code": "+265",
+        "pattern": "## ## ### ##",
+        "limit": 17
+    }, {
+        "id": "0134",
+        "name": "Malaysia",
+        "name_ja": "マレーシア",
+        "flag": "🇲🇾",
+        "code": "MY",
+        "dial_code": "+60",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0135",
+        "name": "Maldives",
+        "name_ja": "モルディブ",
+        "flag": "🇲🇻",
+        "code": "MV",
+        "dial_code": "+960",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0136",
+        "name": "Mali",
+        "name_ja": "マリ",
+        "flag": "🇲🇱",
+        "code": "ML",
+        "dial_code": "+223",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0137",
+        "name": "Malta",
+        "name_ja": "マルタ",
+        "flag": "🇲🇹",
+        "code": "MT",
+        "dial_code": "+356",
+        "pattern": "## ## ## ##",
+        "limit": 17
+    }, {
+        "id": "0138",
+        "name": "Marshall Islands",
+        "name_ja": "マーシャル諸島",
+        "flag": "🇲🇭",
+        "code": "MH",
+        "dial_code": "+692",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0139",
+        "name": "Martinique",
+        "name_ja": "マルティニーク",
+        "flag": "🇲🇶",
+        "code": "MQ",
+        "dial_code": "+596",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0140",
+        "name": "Mauritania",
+        "name_ja": "モーリタニア",
+        "flag": "🇲🇷",
+        "code": "MR",
+        "dial_code": "+222",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0141",
+        "name": "Mauritius",
+        "name_ja": "モーリシャス",
+        "flag": "🇲🇺",
+        "code": "MU",
+        "dial_code": "+230",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0142",
+        "name": "Mayotte",
+        "name_ja": "マヨット",
+        "flag": "🇾🇹",
+        "code": "YT",
+        "dial_code": "+262",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0143",
+        "name": "Mexico",
+        "name_ja": "メキシコ",
+        "flag": "🇲🇽",
+        "code": "MX",
+        "dial_code": "+52",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0144",
+        "name": "Micronesia",
+        "name_ja": "ミクロネシア",
+        "flag": "🇫🇲",
+        "code": "FM",
+        "dial_code": "+691",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0145",
+        "name": "Moldova",
+        "name_ja": "モルドバ",
+        "flag": "🇲🇩",
+        "code": "MD",
+        "dial_code": "+373",
+        "pattern": "## ### ###",
+        "limit": 17
+    }, {
+        "id": "0146",
+        "name": "Monaco",
+        "name_ja": "モナコ",
+        "flag": "🇲🇨",
+        "code": "MC",
+        "dial_code": "+377",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0147",
+        "name": "Mongolia",
+        "name_ja": "モンゴル",
+        "flag": "🇲🇳",
+        "code": "MN",
+        "dial_code": "+976",
+        "pattern": "## ## ####",
+        "limit": 17
+    }, {
+        "id": "0148",
+        "name": "Montenegro",
+        "name_ja": "モンテネグロ",
+        "flag": "🇲🇪",
+        "code": "ME",
+        "dial_code": "+382",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0149",
+        "name": "Montserrat",
+        "name_ja": "モンセラト",
+        "flag": "🇲🇸",
+        "code": "MS",
+        "dial_code": "+1664",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0150",
+        "name": "Morocco",
+        "name_ja": "モロッコ",
+        "flag": "🇲🇦",
+        "code": "MA",
+        "dial_code": "+212",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0151",
+        "name": "Mozambique",
+        "name_ja": "モザンビーク",
+        "flag": "🇲🇿",
+        "code": "MZ",
+        "dial_code": "+258",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0152",
+        "name": "Myanmar",
+        "name_ja": "ミャンマー",
+        "flag": "🇲🇲",
+        "code": "MM",
+        "dial_code": "+95",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0153",
+        "name": "Namibia",
+        "name_ja": "ナミビア",
+        "flag": "🇳🇦",
+        "code": "NA",
+        "dial_code": "+264",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0154",
+        "name": "Nauru",
+        "name_ja": "ナウル",
+        "flag": "🇳🇷",
+        "code": "NR",
+        "dial_code": "+674",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0155",
+        "name": "Nepal",
+        "name_ja": "ネパール",
+        "flag": "🇳🇵",
+        "code": "NP",
+        "dial_code": "+977",
+        "pattern": "## #### ####",
+        "limit": 17
+    }, {
+        "id": "0156",
+        "name": "Netherlands",
+        "name_ja": "オランダ",
+        "flag": "🇳🇱",
+        "code": "NL",
+        "dial_code": "+31",
+        "pattern": "# ## ## ## ##",
+        "limit": 17
+    }, {
+        "id": "0158",
+        "name": "New Caledonia",
+        "name_ja": "ニューカレドニア",
+        "flag": "🇳🇨",
+        "code": "NC",
+        "dial_code": "+687",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0159",
+        "name": "New Zealand",
+        "name_ja": "ニュージーランド",
+        "flag": "🇳🇿",
+        "code": "NZ",
+        "dial_code": "+64",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0160",
+        "name": "Nicaragua",
+        "name_ja": "ニカラグア",
+        "flag": "🇳🇮",
+        "code": "NI",
+        "dial_code": "+505",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0161",
+        "name": "Niger",
+        "name_ja": "ニジェール",
+        "flag": "🇳🇪",
+        "code": "NE",
+        "dial_code": "+227",
+        "pattern": "## ## ## ##",
+        "limit": 17
+    }, {
+        "id": "0162",
+        "name": "Nigeria",
+        "name_ja": "ナイジェリア",
+        "flag": "🇳🇬",
+        "code": "NG",
+        "dial_code": "+234",
+        "pattern": "## #### ####",
+        "limit": 17
+    }, {
+        "id": "0163",
+        "name": "Niue",
+        "name_ja": "ニウエ",
+        "flag": "🇳🇺",
+        "code": "NU",
+        "dial_code": "+683",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0164",
+        "name": "Norfolk Island",
+        "name_ja": "ノーフォーク島",
+        "flag": "🇳🇫",
+        "code": "NF",
+        "dial_code": "+672",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0165",
+        "name": "Northern Mariana Islands",
+        "name_ja": "北マリアナ諸島",
+        "flag": "🇲🇵",
+        "code": "MP",
+        "dial_code": "+1670",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0166",
+        "name": "Norway",
+        "name_ja": "ノルウェー",
+        "flag": "🇳🇴",
+        "code": "NO",
+        "dial_code": "+47",
+        "pattern": "### ## ###",
+        "limit": 17
+    }, {
+        "id": "0167",
+        "name": "Oman",
+        "name_ja": "オマーン",
+        "flag": "🇴🇲",
+        "code": "OM",
+        "dial_code": "+968",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0168",
+        "name": "Pakistan",
+        "name_ja": "パキスタン",
+        "flag": "🇵🇰",
+        "code": "PK",
+        "dial_code": "+92",
+        "pattern": "### ### ####",
+        "limit": 17
+    }, {
+        "id": "0169",
+        "name": "Palau",
+        "name_ja": "パラオ",
+        "flag": "🇵🇼",
+        "code": "PW",
+        "dial_code": "+680",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0170",
+        "name": "Palestine",
+        "name_ja": "パレスチナ",
+        "flag": "🇵🇸",
+        "code": "PS",
+        "dial_code": "+970",
+        "pattern": "### ## ####",
+        "limit": 17
+    }, {
+        "id": "0171",
+        "name": "Panama",
+        "name_ja": "パナマ",
+        "flag": "🇵🇦",
+        "code": "PA",
+        "dial_code": "+507",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0172",
+        "name": "Papua New Guinea",
+        "name_ja": "パプアニューギニア",
+        "flag": "🇵🇬",
+        "code": "PG",
+        "dial_code": "+675",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0173",
+        "name": "Paraguay",
+        "name_ja": "パラグアイ",
+        "flag": "🇵🇾",
+        "code": "PY",
+        "dial_code": "+595",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0174",
+        "name": "Peru",
+        "name_ja": "ペルー",
+        "flag": "🇵🇪",
+        "code": "PE",
+        "dial_code": "+51",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0175",
+        "name": "Philippines",
+        "name_ja": "フィリピン",
+        "flag": "🇵🇭",
+        "code": "PH",
+        "dial_code": "+63",
+        "pattern": "### ### ####",
+        "limit": 17
+    }, {
+        "id": "0177",
+        "name": "Poland",
+        "name_ja": "ポーランド",
+        "flag": "🇵🇱",
+        "code": "PL",
+        "dial_code": "+48",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0178",
+        "name": "Portugal",
+        "name_ja": "ポルトガル",
+        "flag": "🇵🇹",
+        "code": "PT",
+        "dial_code": "+351",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0179",
+        "name": "Puerto Rico",
+        "name_ja": "プエルトリコ",
+        "flag": "🇵🇷",
+        "code": "PR",
+        "dial_code": "+1939",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0180",
+        "name": "Qatar",
+        "name_ja": "カタール",
+        "flag": "🇶🇦",
+        "code": "QA",
+        "dial_code": "+974",
+        "pattern": "## ### ###",
+        "limit": 17
+    }, {
+        "id": "0181",
+        "name": "Romania",
+        "name_ja": "ルーマニア",
+        "flag": "🇷🇴",
+        "code": "RO",
+        "dial_code": "+40",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0182",
+        "name": "Russia",
+        "name_ja": "ロシア",
+        "flag": "🇷🇺",
+        "code": "RU",
+        "dial_code": "+7",
+        "pattern": "### ### ####",
+        "limit": 17
+    }, {
+        "id": "0183",
+        "name": "Rwanda",
+        "name_ja": "ルワンダ",
+        "flag": "🇷🇼",
+        "code": "RW",
+        "dial_code": "+250",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0184",
+        "name": "Reunion",
+        "name_ja": "レユニオン",
+        "flag": "🇷🇪",
+        "code": "RE",
+        "dial_code": "+262",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0186",
+        "name": "Saint Helena",
+        "name_ja": "セントヘレナ",
+        "flag": "🇸🇭",
+        "code": "SH",
+        "dial_code": "+290",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0187",
+        "name": "Saint Kitts & Nevis",
+        "name_ja": "セントクリストファー・ネイビス",
+        "flag": "🇰🇳",
+        "code": "KN",
+        "dial_code": "+1869",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0188",
+        "name": "Saint Lucia",
+        "name_ja": "セントルシア",
+        "flag": "🇱🇨",
+        "code": "LC",
+        "dial_code": "+1758",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0190",
+        "name": "Saint Pierre & Miquelon",
+        "name_ja": "サンピエール島・ミクロン島",
+        "flag": "🇵🇲",
+        "code": "PM",
+        "dial_code": "+508",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0191",
+        "name": "Saint Vincent & the Grenadines",
+        "name_ja": "セントビンセント・グレナディーン諸島",
+        "flag": "🇻🇨",
+        "code": "VC",
+        "dial_code": "+1784",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0192",
+        "name": "Samoa",
+        "name_ja": "サモア",
+        "flag": "🇼🇸",
+        "code": "WS",
+        "dial_code": "+685",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0193",
+        "name": "San Marino",
+        "name_ja": "サンマリノ",
+        "flag": "🇸🇲",
+        "code": "SM",
+        "dial_code": "+378",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0194",
+        "name": "Sao Tome & Principe",
+        "name_ja": "サントメ・プリンシペ",
+        "flag": "🇸🇹",
+        "code": "ST",
+        "dial_code": "+239",
+        "pattern": "## #####",
+        "limit": 17
+    }, {
+        "id": "0195",
+        "name": "Saudi Arabia",
+        "name_ja": "サウジアラビア",
+        "flag": "🇸🇦",
+        "code": "SA",
+        "dial_code": "+966",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0196",
+        "name": "Senegal",
+        "name_ja": "セネガル",
+        "flag": "🇸🇳",
+        "code": "SN",
+        "dial_code": "+221",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0197",
+        "name": "Serbia",
+        "name_ja": "セルビア",
+        "flag": "🇷🇸",
+        "code": "RS",
+        "dial_code": "+381",
+        "pattern": "## ### ###",
+        "limit": 17
+    }, {
+        "id": "0198",
+        "name": "Seychelles",
+        "name_ja": "セイシェル",
+        "flag": "🇸🇨",
+        "code": "SC",
+        "dial_code": "+248",
+        "pattern": "# ## ## ##",
+        "limit": 17
+    }, {
+        "id": "0199",
+        "name": "Sierra Leone",
+        "name_ja": "シエラレオネ",
+        "flag": "🇸🇱",
+        "code": "SL",
+        "dial_code": "+232",
+        "pattern": "## ### ###",
+        "limit": 17
+    }, {
+        "id": "0200",
+        "name": "Singapore",
+        "name_ja": "シンガポール",
+        "flag": "🇸🇬",
+        "code": "SG",
+        "dial_code": "+65",
+        "pattern": "#### ####",
+        "limit": 17
+    }, {
+        "id": "0201",
+        "name": "Slovakia",
+        "name_ja": "スロバキア",
+        "flag": "🇸🇰",
+        "code": "SK",
+        "dial_code": "+421",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0202",
+        "name": "Slovenia",
+        "name_ja": "スロベニア",
+        "flag": "🇸🇮",
+        "code": "SI",
+        "dial_code": "+386",
+        "pattern": "## ### ###",
+        "limit": 17
+    }, {
+        "id": "0203",
+        "name": "Solomon Islands",
+        "name_ja": "ソロモン諸島",
+        "flag": "🇸🇧",
+        "code": "SB",
+        "dial_code": "+677",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0204",
+        "name": "Somalia",
+        "name_ja": "ソマリア",
+        "flag": "🇸🇴",
+        "code": "SO",
+        "dial_code": "+252",
+        "pattern": "## ### ###",
+        "limit": 17
+    }, {
+        "id": "0205",
+        "name": "South Africa",
+        "name_ja": "南アフリカ",
+        "flag": "🇿🇦",
+        "code": "ZA",
+        "dial_code": "+27",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0206",
+        "name": "South Sudan",
+        "name_ja": "南スーダン",
+        "flag": "🇸🇸",
+        "code": "SS",
+        "dial_code": "+211",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0208",
+        "name": "Spain",
+        "name_ja": "スペイン",
+        "flag": "🇪🇸",
+        "code": "ES",
+        "dial_code": "+34",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0209",
+        "name": "Sri Lanka",
+        "name_ja": "スリランカ",
+        "flag": "🇱🇰",
+        "code": "LK",
+        "dial_code": "+94",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0210",
+        "name": "Sudan",
+        "name_ja": "スーダン",
+        "flag": "🇸🇩",
+        "code": "SD",
+        "dial_code": "+249",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0211",
+        "name": "Suriname",
+        "name_ja": "スリナム",
+        "flag": "🇸🇷",
+        "code": "SR",
+        "dial_code": "+597",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0214",
+        "name": "Sweden",
+        "name_ja": "スウェーデン",
+        "flag": "🇸🇪",
+        "code": "SE",
+        "dial_code": "+46",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0215",
+        "name": "Switzerland",
+        "name_ja": "スイス",
+        "flag": "🇨🇭",
+        "code": "CH",
+        "dial_code": "+41",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0216",
+        "name": "Syria",
+        "name_ja": "シリア",
+        "flag": "🇸🇾",
+        "code": "SY",
+        "dial_code": "+963",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0217",
+        "name": "Taiwan",
+        "name_ja": "台湾",
+        "flag": "🇹🇼",
+        "code": "TW",
+        "dial_code": "+886",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0218",
+        "name": "Tajikistan",
+        "name_ja": "タジキスタン",
+        "flag": "🇹🇯",
+        "code": "TJ",
+        "dial_code": "+992",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0219",
+        "name": "Tanzania",
+        "name_ja": "タンザニア",
+        "flag": "🇹🇿",
+        "code": "TZ",
+        "dial_code": "+255",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0220",
+        "name": "Thailand",
+        "name_ja": "タイ",
+        "flag": "🇹🇭",
+        "code": "TH",
+        "dial_code": "+66",
+        "pattern": "# #### ####",
+        "limit": 17
+    }, {
+        "id": "0221",
+        "name": "Timor-Leste",
+        "name_ja": "ティモールレステ",
+        "flag": "🇹🇱",
+        "code": "TL",
+        "dial_code": "+670",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0222",
+        "name": "Togo",
+        "name_ja": "トーゴ",
+        "flag": "🇹🇬",
+        "code": "TG",
+        "dial_code": "+228",
+        "pattern": "## ### ###",
+        "limit": 17
+    }, {
+        "id": "0223",
+        "name": "Tokelau",
+        "name_ja": "トケラウ",
+        "flag": "🇹🇰",
+        "code": "TK",
+        "dial_code": "+690",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0224",
+        "name": "Tonga",
+        "name_ja": "トンガ",
+        "flag": "🇹🇴",
+        "code": "TO",
+        "dial_code": "+676",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0225",
+        "name": "Trinidad & Tobago",
+        "name_ja": "トリニダード・トバゴ",
+        "flag": "🇹🇹",
+        "code": "TT",
+        "dial_code": "+1868",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0226",
+        "name": "Tunisia",
+        "name_ja": "チュニジア",
+        "flag": "🇹🇳",
+        "code": "TN",
+        "dial_code": "+216",
+        "pattern": "## ### ###",
+        "limit": 17
+    }, {
+        "id": "0227",
+        "name": "Turkey",
+        "name_ja": "トルコ",
+        "flag": "🇹🇷",
+        "code": "TR",
+        "dial_code": "+90",
+        "pattern": "### ### ####",
+        "limit": 17
+    }, {
+        "id": "0228",
+        "name": "Turkmenistan",
+        "name_ja": "トルクメニスタン",
+        "flag": "🇹🇲",
+        "code": "TM",
+        "dial_code": "+993",
+        "pattern": "## ######",
+        "limit": 17
+    }, {
+        "id": "0229",
+        "name": "Turks & Caicos Islands",
+        "name_ja": "タークス・カイコス諸島",
+        "flag": "🇹🇨",
+        "code": "TC",
+        "dial_code": "+1649",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0230",
+        "name": "Tuvalu",
+        "name_ja": "トゥバル",
+        "flag": "🇹🇻",
+        "code": "TV",
+        "dial_code": "+688",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0231",
+        "name": "Uganda",
+        "name_ja": "ウガンダ",
+        "flag": "🇺🇬",
+        "code": "UG",
+        "dial_code": "+256",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0232",
+        "name": "Ukraine",
+        "name_ja": "ウクライナ",
+        "flag": "🇺🇦",
+        "code": "UA",
+        "dial_code": "+380",
+        "pattern": "## ### ## ##",
+        "limit": 17
+    }, {
+        "id": "0233",
+        "name": "United Arab Emirates",
+        "name_ja": "アラブ首長国連邦",
+        "flag": "🇦🇪",
+        "code": "AE",
+        "dial_code": "+971",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0234",
+        "name": "United Kingdom",
+        "name_ja": "イギリス",
+        "flag": "🇬🇧",
+        "code": "GB",
+        "dial_code": "+44",
+        "pattern": "#### ######",
+        "limit": 17
+    }, {
+        "id": "0235",
+        "name": "USA",
+        "name_ja": "アメリカ合衆国",
+        "flag": "🇺🇸",
+        "code": "US",
+        "dial_code": "+1",
+        "pattern": "### ### ####",
+        "limit": 17
+    }, {
+        "id": "0236",
+        "name": "Uruguay",
+        "name_ja": "ウルグアイ",
+        "flag": "🇺🇾",
+        "code": "UY",
+        "dial_code": "+598",
+        "pattern": "# ### ####",
+        "limit": 17
+    }, {
+        "id": "0237",
+        "name": "Uzbekistan",
+        "name_ja": "ウズベキスタン",
+        "flag": "🇺🇿",
+        "code": "UZ",
+        "dial_code": "+998",
+        "pattern": "## ### ## ##",
+        "limit": 17
+    }, {
+        "id": "0238",
+        "name": "Vanuatu",
+        "name_ja": "バヌアツ",
+        "flag": "🇻🇺",
+        "code": "VU",
+        "dial_code": "+678",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0239",
+        "name": "Venezuela",
+        "name_ja": "ベネズエラ",
+        "flag": "🇻🇪",
+        "code": "VE",
+        "dial_code": "+58",
+        "pattern": "### ### ####",
+        "limit": 17
+    }, {
+        "id": "0240",
+        "name": "Vietnam",
+        "name_ja": "ベトナム",
+        "flag": "🇻🇳",
+        "code": "VN",
+        "dial_code": "+84",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0241",
+        "name": "Virgin Islands, British",
+        "name_ja": "イギリス領ヴァージン諸島",
+        "flag": "🇻🇬",
+        "code": "VG",
+        "dial_code": "+1284",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0242",
+        "name": "Virgin Islands, U.S.",
+        "name_ja": "アメリカ領ヴァージン諸島",
+        "flag": "🇻🇮",
+        "code": "VI",
+        "dial_code": "+1340",
+        "pattern": "### ####",
+        "limit": 17
+    }, {
+        "id": "0243",
+        "name": "Wallis & Futuna",
+        "name_ja": "ウォリス・フツナ",
+        "flag": "🇼🇫",
+        "code": "WF",
+        "dial_code": "+681",
+        "pattern": "#",
+        "limit": 17
+    }, {
+        "id": "0244",
+        "name": "Yemen",
+        "name_ja": "イエメン",
+        "flag": "🇾🇪",
+        "code": "YE",
+        "dial_code": "+967",
+        "pattern": "### ### ###",
+        "limit": 17
+    }, {
+        "id": "0245",
+        "name": "Zambia",
+        "name_ja": "ザンビア",
+        "flag": "🇿🇲",
+        "code": "ZM",
+        "dial_code": "+260",
+        "pattern": "## ### ####",
+        "limit": 17
+    }, {
+        "id": "0246",
+        "name": "Zimbabwe",
+        "name_ja": "ジンバブエ",
+        "flag": "🇿🇼",
+        "code": "ZW",
+        "dial_code": "+263",
+        "pattern": "## ### ####",
+        "limit": 17
+    }
+]
